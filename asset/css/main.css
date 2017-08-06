@@ -1,7 +1,12 @@
+body {
+  background-color: beige;
+}
+
 .logo {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   float: left;
+  border: 1px solid black;
 }
 
 .head-name-logo {
