@@ -21,3 +21,31 @@ body {
 .project-image {
   max-width: 100%;
 }
+
+.name h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 48px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.footer p {
+  font-weight: bold;
+}
+
+.main h2 {
+  font-size: 32px;
+  color: #79a;
+}
+
+.main a {
+  text-decoration: none;
+}
+
+.caption p {
+  text-align: center;
+  font-size: 24px;
+  color: darkblue;
+}
