@@ -22,30 +22,27 @@ body {
   max-width: 100%;
 }
 
-.name h1 {
+.user-name {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 48px;
 }
 
-.footer {
-  text-align: center;
-}
-
-.footer p {
-  font-weight: bold;
-}
-
-.main h2 {
+.project-title {
   font-size: 32px;
   color: #79a;
 }
 
-.main a {
+.main .project-link {
   text-decoration: none;
 }
 
-.caption p {
+.project-desc {
   text-align: center;
-  font-size: 24px;
+  font-size: 28px;
   color: darkblue;
+}
+
+.footer {
+  text-align: center;
+  font-weight: bold;
 }
